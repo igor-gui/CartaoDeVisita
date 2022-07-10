@@ -4,7 +4,7 @@
 
 <article>
 
-Página Web desenvolvida durante a Maratona Explorer 2.0. Consiste em uma página com variações dos temas de cor de acordo com a definição de classe do elemento body do arquivo Html.
+Página Web desenvolvida durante a Maratona Explorer 2.0. Consiste em uma página com variações dos temas de cor de acordo com a definição de classe do elemento body do arquivo Html. A página tem o intuito de disponibilizar informações pessoas e de contato. 
 
 </article>
 
