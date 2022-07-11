@@ -24,8 +24,8 @@ body.pink{
   --primary-color: #d6336c;
   --primary-color-dark: #A61E4D;
 }
-
-body.dakr-pink{
+/* correção de sintaxe*/
+body.dark-pink {
   --bg-color: #1F000B;
   --text-color: #ffffff;
   --primary-color: #D6336C;

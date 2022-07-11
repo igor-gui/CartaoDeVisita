@@ -4,7 +4,7 @@
 
 <article>
 
-Página Web desenvolvida durante a Maratona Explorer 2.0 da Rocketseat. Consistindo em uma página única com variações dos temas de cor de acordo com a definição de classe do elemento body do arquivo Html, a página tem o intuito de disponibilizar informações pessoais e de contato para a prospecção passiva de novos leads. 
+Página Web desenvolvida durante a Maratona Explorer 2.0 da Rocketseat. Consistindo em uma página única com variações dos temas de cor de acordo com a definição de classe do elemento body do arquivo Html, a página tem o intuito de disponibilizar informações pessoais e de contato para a prospecção passiva de novos leads, mas também pode servir na dilvulgação de qualquer grupo de links. 
 
 </article>
 
